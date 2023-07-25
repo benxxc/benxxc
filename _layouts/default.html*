@@ -36,3 +36,5 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script src="https://unpkg.com/cart-localstorage@1.1.4/dist/cart-localstorage.min.js" type="text/javascript"></script>
 <script src="{{ '/assets/javascript/index.js' | relative_url }}" type="text/javascript"></script>
 </html>
+
+<!-- GNU T.P. -->
